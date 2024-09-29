@@ -13,3 +13,4 @@
   </div>
 
   <h3 align="center"> Medical Report Automation Report </h3>
+  <p> The App minimizes the time and effort taken by doctors to write the medical report, by providing an interactive platform by incorporating multiple open souce large language models. </p>
