@@ -5,10 +5,11 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 from io import StringIO
+import dotenv
 
 st.title("Med-Report (Interactive)")
 # Set the API key
-api_key = "AIzaSyDwrLsUBYvq78CrymNFLMthcWqhz2FJdIo"
+api_key = dotenv("GEMINI_API_KEY")
 os.environ['GEMINI_API_KEY'] = api_key  # Use the correct variable for the API key
 
 # Configure the API with the correct environment variable
