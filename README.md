@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <br />
     <a>
       # V-Medithon_DomX
