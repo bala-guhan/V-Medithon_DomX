@@ -1,0 +1,20 @@
+Sample Diagnoses:
+Influenza (Flu): A contagious respiratory illness caused by influenza viruses, characterized by fever, cough, sore throat, body aches, and fatigue.
+
+Hypertension: A condition in which the force of the blood against the artery walls is too high, often referred to as high blood pressure.
+
+Type 2 Diabetes: A chronic condition that affects the way your body metabolizes sugar (glucose), leading to high blood sugar levels.
+
+Chronic Kidney Disease: A gradual loss of kidney function over time, which can lead to kidney failure.
+
+Anemia: A condition in which you lack enough healthy red blood cells to carry adequate oxygen to your body's tissues, leading to fatigue and weakness.
+
+Asthma: A chronic lung condition that causes difficulty in breathing due to inflammation and narrowing of the airways.
+
+Pneumonia: An infection that inflames the air sacs in one or both lungs, which may fill with fluid or pus, causing cough, fever, chills, and difficulty breathing.
+
+Acid Reflux Disease (GERD): A digestive disorder where stomach acid or bile irritates the food pipe lining, leading to symptoms like heartburn and regurgitation.
+
+Migraine: A headache of varying intensity, often accompanied by nausea and sensitivity to light and sound.
+
+Chronic Obstructive Pulmonary Disease (COPD): A group of lung diseases that block airflow and make it difficult to breathe, including emphysema and chronic bronchitis.
