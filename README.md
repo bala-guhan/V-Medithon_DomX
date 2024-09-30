@@ -1,9 +1,7 @@
-<div>
-  <br />
+
 # V-Medithon_DomX
+  
 **V-Medithon_DomX** is an interactive web-based medical diagnosis report generator designed to automate the process of generating patient reports. It simplifies data input, approval, and visual representation of lab results for healthcare providers.
-    </a>
-  <br />
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
